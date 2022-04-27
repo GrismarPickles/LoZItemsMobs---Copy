@@ -1,9 +1,0 @@
-{
-
-  "parent": "block/cube_all",
-  "textures":
-  {
-    "all": "lzim:blocks/master_ore_block"
-  }
-
-}
