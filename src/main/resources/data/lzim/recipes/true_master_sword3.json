@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    "yzy",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "lzim:master_ore"
+    },
+    "y":
+    {
+      "item": "minecraft:blaze_rod"
+    },
+    "z":
+    {
+      "item": "lzim:true_master_sword2"
+    }
+  },
+  "result":
+  {
+    "item": "lzim:true_master_sword3",
+    "count": 1
+  }
+}
