@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    " x ",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "lzim:master_ore"
+    },
+    "y":
+    {
+      "item": "lzim:goddess_white_sword"
+    }
+  },
+  "result":
+  {
+    "item": "lzim:master_sword",
+    "count": 1
+  }
+}

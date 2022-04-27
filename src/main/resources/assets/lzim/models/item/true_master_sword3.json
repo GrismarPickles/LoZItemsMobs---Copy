@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures":
+  {
+    "layer0": "lzim:items/true_master_sword3"
+  }
+}

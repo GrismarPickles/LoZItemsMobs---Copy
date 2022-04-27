@@ -1,0 +1,44 @@
+
+modLoader="javafml"
+
+loaderVersion="[36,)"
+
+license="All rights reserved"
+
+[[mods]]
+
+modId="lzim"
+
+version="1.16.2-0.0.1"
+
+displayName="Legend of Zelda Items & Mobs"
+
+logoFile="lozim.png"
+
+credits="Thanks go to: Mojang for creating Minecraft, FML Team for creating a mod base and loader, Nintendo for creating the LoZ series, and TechnoVision for making the tutorials I followed to learn 1.16 modding."
+
+authors="GrismarPickles (Aka Grismar, GrismarPicklemelt)"
+
+description='''
+A mod that includes various items, weapons, mobs, etc. that appear in the Legend of Zelda franchise.
+'''
+
+[[dependencies.examplemod]]
+
+    modId="forge"
+
+    mandatory=true
+
+    versionRange="[36,)"
+
+    ordering="NONE"
+
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

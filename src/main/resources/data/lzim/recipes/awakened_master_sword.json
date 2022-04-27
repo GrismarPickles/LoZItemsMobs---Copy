@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xcx",
+    "azb",
+    "xdx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond"
+    },
+    "a":
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    "b":
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    "c":
+    {
+      "item": "lzim:master_ore"
+    },
+    "d":
+    {
+      "item": "lzim:loftsteel"
+    },
+    "z":
+    {
+      "item": "lzim:true_master_sword3"
+    }
+  },
+  "result":
+  {
+    "item": "lzim:awakened_master_sword",
+    "count": 1
+  }
+}
